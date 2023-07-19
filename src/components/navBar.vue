@@ -1,7 +1,5 @@
 <template>
-  <div class="nav-bar">
-    <v-btn><v-icon>close</v-icon></v-btn>
-  </div>
+  <div class="nav-bar">navBar</div>
 </template>
 
 <style lang="scss"></style>
